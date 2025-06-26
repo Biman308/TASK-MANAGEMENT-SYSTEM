@@ -1,1 +1,1 @@
-# TASK-MANAGEMENT-SYSTEM
+# Task Management System — Full Project Specification
