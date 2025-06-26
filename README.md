@@ -1,3 +1,7 @@
+![Screenshot (146)](https://github.com/user-attachments/assets/79676302-3e37-4684-a13b-51996de85cd5)
+![Screenshot (147)](https://github.com/user-attachments/assets/80b874ef-c6eb-40dc-83ab-9d70da4853f3)
+![Screenshot (148)](https://github.com/user-attachments/assets/a042e0f4-abec-4b77-a30b-a3b7c03540f2)
+![Screenshot (149)](https://github.com/user-attachments/assets/3ad2b2d8-20dd-4696-a693-79acbea22a8b)
 # Task Management System — Full Project Specification
 
 
